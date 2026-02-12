@@ -41,4 +41,4 @@ The repository currently focuses on:
 
 ## Domain
 
-Primary project domain: **https://vimos.org**
+Primary project domain: **https://saeeedhany.github.io/vimos.org/**
