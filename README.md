@@ -42,3 +42,7 @@ The repository currently focuses on:
 ## Domain
 
 Primary project domain: **https://saeeedhany.github.io/vimos.org/**
+
+## The Problem Domain
+
+I don't know i'm so confused.. I just want to build one but i have no idea about what is the kind of problems should i solve.
